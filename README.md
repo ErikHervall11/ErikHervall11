@@ -1,4 +1,5 @@
-# 👋 Hey There, Hi There, Ho There! 👋![SoExcited~GIF](https://github.com/ErikHervall11/ErikHervall11/assets/155591977/9714dfef-067d-4e94-b910-e495249ecbf3)
+# 👋 Hey There, Hi There, Ho There! 👋 ![KeyboardTypeGIF](https://github.com/ErikHervall11/ErikHervall11/assets/155591977/1eb2b6cb-fe42-4602-8f6e-66df0ef1c7f8)
+
 
 
 <!--

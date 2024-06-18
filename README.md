@@ -1,4 +1,5 @@
-# 👋 Hey There, Hi There, Ho There! 👋
+# 👋 Hey There, Hi There, Ho There! 👋![SoExcited~GIF](https://github.com/ErikHervall11/ErikHervall11/assets/155591977/9714dfef-067d-4e94-b910-e495249ecbf3)
+
 
 <!--
 **ErikHervall11/ErikHervall11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

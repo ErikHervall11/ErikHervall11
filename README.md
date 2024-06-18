@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-🔭 I'm currently working on my web app, "Cocktail Collective"<br>🌱 I'm currently studying WordPress and PHP<br>👯 I'm currently looking to collaborate on a browser game<br>💬 Ask me about my full stack apps!<br>⚡ I enjoy gaming, playing music, cooking, and travel
+🔭 I'm currently working on my web app, "Cocktail Collective"<br>🌱 I'm currently studying WordPress and PHP<br>👯 I'm currently looking to collaborate on a browser game<br>💬 Ask me about my full stack apps!<br>⚡ I enjoy gaming, playing music, cooking, and making cocktails!
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erik.hervall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erikhervall/) 

@@ -1,4 +1,4 @@
-# 👋 Hey There, Hi There, Ho There! 👋 ![KeyboardTypeGIF](https://github.com/ErikHervall11/ErikHervall11/assets/155591977/1eb2b6cb-fe42-4602-8f6e-66df0ef1c7f8)
+# 👋 Hey There, Hi There, Ho There! 👋 
 
 
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
+![KeyboardTypeGIF](https://github.com/ErikHervall11/ErikHervall11/assets/155591977/1eb2b6cb-fe42-4602-8f6e-66df0ef1c7f8)
 🔭 I'm currently working on my web app, "Cocktail Collective"<br>🌱 I'm currently studying WordPress and PHP<br>👯 I'm currently looking to collaborate on a browser game<br>💬 Ask me about my full stack apps!<br>⚡ I enjoy gaming, playing music, cooking, and making cocktails!
 
 ### 🌐 Socials:

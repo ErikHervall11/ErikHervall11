@@ -15,28 +15,3 @@
 [![](https://visitcount.itsvg.in/api?id=ErikHervall11&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<style>
-@keyframes typewriter {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes blinkTextCursor {
-  from { border-right-color: rgba(255, 255, 255, .75); }
-  to { border-right-color: transparent; }
-}
-.typewriter h1 {
-  overflow: hidden;
-  border-right: .15em solid rgba(255, 255, 255, .75);
-  white-space: nowrap;
-  margin: 0 auto;
-  letter-spacing: .15em;
-  animation: 
-    typewriter 3.5s steps(30, end) 1s 1 normal both,
-    blinkTextCursor .75s step-end infinite;
-}
-</style>
-
-<div class="typewriter">
-  <h1>Hey There, Hi There, Ho There!</h1>
-</div>

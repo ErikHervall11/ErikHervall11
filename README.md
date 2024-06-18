@@ -1,20 +1,5 @@
 # 👋 Hey There, Hi There, Ho There! 👋 
 
-
-
-<!--
-**ErikHervall11/ErikHervall11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-## 💫 About Me:
-- 🔭 I'm currently working on my web app "Cocktail Collective"
-- 🌱 I'm currently studying WordPress and PHP
-- 👯 I'm currently looking to collaborate on a browser game
-- 💬 Ask me about my full stack apps!
-- ⚡ I enjoy gaming, playing music, cooking, and travel
--->
-
 ## 💫 About Me:
 ![KeyboardTypeGIF](https://github.com/ErikHervall11/ErikHervall11/assets/155591977/1eb2b6cb-fe42-4602-8f6e-66df0ef1c7f8)<br>
 🔭 I'm currently working on my web app, "Cocktail Collective"<br>🌱 I'm currently studying WordPress and PHP<br>👯 I'm currently looking to collaborate on a browser game<br>💬 Ask me about my full stack apps!<br>⚡ I enjoy gaming, playing music, cooking, and making cocktails!

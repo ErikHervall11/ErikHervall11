@@ -1,4 +1,4 @@
-# Hey There, Hi There, Ho There! 👋
+# 👋 Hey There, Hi There, Ho There! 👋
 
 <!--
 **ErikHervall11/ErikHervall11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

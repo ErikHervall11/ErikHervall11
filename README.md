@@ -2,7 +2,7 @@
 
 ## 🎙️ My Name is Erik Hervall.  Here's a Little <sub>giga</sub>Bit About Me:
 ![KeyboardTypeGIF](https://github.com/ErikHervall11/ErikHervall11/assets/155591977/1eb2b6cb-fe42-4602-8f6e-66df0ef1c7f8)<br>
-🔭 I'm currently working on my web app, "Cocktail Collective" [🍸](https://cocktailssearch.onrender.com/)<br>🌱 I'm currently studying WordPress and PHP<br>👯 I'm currently looking to collaborate on a browser game<br>💬 Ask me about my full stack apps!<br>⚡ I enjoy gaming 🕹️ playing music 🎸 cooking 🧑‍🍳 and making cocktails! 🍸
+🔭 I'm currently working on my web app, "Cocktail Collective" [🍸](https://cocktailssearch.onrender.com/) <<---- CLICK ME!<br>🌱 I'm currently studying WordPress and PHP<br>👯 I'm currently looking to collaborate on a browser game<br>💬 Ask me about my full stack apps!<br>⚡ I enjoy gaming 🕹️ playing music 🎸 cooking 🧑‍🍳 and making cocktails! 🍸
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erik.hervall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erikhervall/) 
